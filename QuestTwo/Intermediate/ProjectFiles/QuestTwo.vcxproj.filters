@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\QuestTwo.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7B0082F9-A790-41DA-B899-30C3C5D5DE1D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\QuestTwo.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\QuestTwoEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{440D27D2-E4FF-4714-BC6A-ED8188B28722}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\QuestTwo">
+      <UniqueIdentifier>{B4AA7240-175F-417B-B8DC-6D3FFE15325D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\QuestTwo\QuestTwo.Build.cs">
+      <Filter>Source\QuestTwo</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\QuestTwo\QuestTwo.cpp">
+      <Filter>Source\QuestTwo</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\QuestTwo\QuestTwo.h">
+      <Filter>Source\QuestTwo</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

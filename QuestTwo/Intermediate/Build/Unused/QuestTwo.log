@@ -1,0 +1,11 @@
+﻿  Building QuestTwoEditor...
+  Using Visual Studio 2019 14.30.30705 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.30.30705) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 16 processes...
+    [1/4] TurtleOne.cpp
+    [2/4] UE4Editor-QuestTwo-0028.lib
+       Создается библиотека C:\Users\Nikolay\Documents\Unreal Projects\QuestTwo\Intermediate\Build\Win64\UE4Editor\Development\QuestTwo\UE4Editor-QuestTwo-0028.lib и объект C:\Users\Nikolay\Documents\Unreal Projects\QuestTwo\Intermediate\Build\Win64\UE4Editor\Development\QuestTwo\UE4Editor-QuestTwo-0028.exp
+    [3/4] UE4Editor-QuestTwo-0028.dll
+       Создается библиотека C:\Users\Nikolay\Documents\Unreal Projects\QuestTwo\Intermediate\Build\Win64\UE4Editor\Development\QuestTwo\UE4Editor-QuestTwo-0028.suppressed.lib и объект C:\Users\Nikolay\Documents\Unreal Projects\QuestTwo\Intermediate\Build\Win64\UE4Editor\Development\QuestTwo\UE4Editor-QuestTwo-0028.suppressed.exp
+    [4/4] QuestTwoEditor.target
+  Total time in Parallel executor: 1,15 seconds
+  Total execution time: 1,62 seconds

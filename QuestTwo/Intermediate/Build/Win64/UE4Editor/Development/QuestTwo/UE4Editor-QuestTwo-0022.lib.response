@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-QuestTwo-0022.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Nikolay\Documents\Unreal Projects\QuestTwo\Intermediate\Build\Win64\QuestTwoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Nikolay\Documents\Unreal Projects\QuestTwo\Intermediate\Build\Win64\UE4Editor\Development\QuestTwo\QuestTwo.cpp.obj"
+"C:\Users\Nikolay\Documents\Unreal Projects\QuestTwo\Intermediate\Build\Win64\UE4Editor\Development\QuestTwo\TurtleOne.cpp.obj"
+"C:\Users\Nikolay\Documents\Unreal Projects\QuestTwo\Intermediate\Build\Win64\UE4Editor\Development\QuestTwo\TurtleTwo.cpp.obj"
+"C:\Users\Nikolay\Documents\Unreal Projects\QuestTwo\Intermediate\Build\Win64\UE4Editor\Development\QuestTwo\QuestTwo.init.gen.cpp.obj"
+"C:\Users\Nikolay\Documents\Unreal Projects\QuestTwo\Intermediate\Build\Win64\UE4Editor\Development\QuestTwo\TurtleOne.gen.cpp.obj"
+"C:\Users\Nikolay\Documents\Unreal Projects\QuestTwo\Intermediate\Build\Win64\UE4Editor\Development\QuestTwo\TurtleTwo.gen.cpp.obj"
+"C:\Users\Nikolay\Documents\Unreal Projects\QuestTwo\Intermediate\Build\Win64\UE4Editor\Development\QuestTwo\Default.rc2.res"
+/OUT:"C:\Users\Nikolay\Documents\Unreal Projects\QuestTwo\Intermediate\Build\Win64\UE4Editor\Development\QuestTwo\UE4Editor-QuestTwo-0022.lib"
+/INCLUDE:IMPLEMENT_MODULE_QuestTwo

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "QuestTwo",
+			"Path": "C:\\Users\\Nikolay\\Documents\\Unreal Projects\\QuestTwo\\Source\\QuestTwo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "QuestTwoEditor",
+			"Path": "C:\\Users\\Nikolay\\Documents\\Unreal Projects\\QuestTwo\\Source\\QuestTwoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

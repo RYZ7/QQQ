@@ -1,0 +1,3 @@
+C:\Users\Nikolay\Documents\Unreal Projects\QuestTwo\Intermediate\Build\Win64\UE4Editor\Development\QuestTwo\Definitions.QuestTwo.h
+C:\Users\Nikolay\Documents\Unreal Projects\QuestTwo\Source\QuestTwo\TurtleOne.h
+C:\Users\Nikolay\Documents\Unreal Projects\QuestTwo\Intermediate\Build\Win64\UE4Editor\Inc\QuestTwo\TurtleOne.generated.h
